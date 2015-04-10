@@ -1,0 +1,47 @@
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+    ## Posts and pages
+	## Asides
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+@import "_normalize.scss";
+
+body {
+	background: pink;
+	padding: 5em;
+}
+
+@media (min-width: 400px) {
+	body {
+		//background: green;
+	}
+}
+
+$donkey: #000;
+
+.selector-borked {
+	color: pink;
+
+	@media (min-width: 400px) {
+		color: red;
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Glug",
+  "version": "0.0.1",
+  "homepage": "http://scott.ee",
+  "authors": [
+    "Scott Evans <git@scott.ee>"
+  ],
+  "description": "A starting point for Gulp and Bower projects.",
+  "main": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottsweb/glug"
+  },
+  "license": "GPLv2",
+  "devDependencies": {
+    "normalize.css": "^3.0.2"
+  }
+}
