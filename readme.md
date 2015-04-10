@@ -31,7 +31,6 @@ Customise the settings at the top of `gulpfile.js` to your requirements. You can
 
 ```
 gulp
-
 ```
 
 Which watches your SCSS and images folders for changes. May also start a local Browsersync instance and static server if the settings are setup that way
@@ -39,14 +38,12 @@ Which watches your SCSS and images folders for changes. May also start a local B
 
 ```
 gulp checkcss
-
 ```
 
 If the project is a static one with HTML assets, the HTML and CSS are compared to see if any selectors can be removed from your styles.
 
 ```
 gulp sync
-
 ```
 
 To copy changes made to your `package.json` to other manifest files (e.g. `bower.json`).
