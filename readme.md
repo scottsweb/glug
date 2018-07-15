@@ -1,4 +1,4 @@
-![Glug Logo](http://cloud.scott.ee/images/glug.png)
+![Glug Logo](https://scott.ee/images/glug.png)
 
 # Glug
 
