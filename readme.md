@@ -2,7 +2,7 @@
 
 # Glug
 
-* Status: ✔ Active
+* Status: ✖ Inactive
 * Contributors: [@scottsweb](http://twitter.com/scottsweb)
 * Description: A starting point for front end projects.
 * Author: [Scott Evans](http://scott.ee)
