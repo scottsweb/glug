@@ -182,17 +182,8 @@ gulp.task('sync', function() {
 });
 
 
-// other ideas
+// Ideas:
 // - add bower config - folders for bower to grab assets.?. not very flexible
 // - lint scss files - https://github.com/brigade/scss-lint
 // - inline fonts & SVG images - https://npmjs.org/package/gulp-sassvg/
 // - performance testing - https://www.npmjs.com/package/gulp-bench/
-//
-// notes
-// http://ericlbarnes.com/setting-gulp-bower-bootstrap-sass-fontawesome/
-// https://github.com/jacklenox/picard-present
-// http://webstoemp.com/blog/gulp-setup/
-// https://github.com/primer/primer
-// https://github.com/Falci/falci-gulp-tasks
-// https://github.com/pwnjack/prime
-// http://paislee.io/a-healthy-gulp-setup-for-angularjs-projects/
